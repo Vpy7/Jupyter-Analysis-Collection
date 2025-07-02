@@ -1,7 +1,0 @@
-kagglehub
-pandas
-seaborn
-matplotlib
-scikit-learn
-xgboost
-numpy
